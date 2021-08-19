@@ -26,4 +26,4 @@
 
 ## ⭐ 感谢支持
 
-[![Stargazers over time](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ermaozi/get_subscribe)
+[![操，图挂了……](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ermaozi/get_subscribe)
